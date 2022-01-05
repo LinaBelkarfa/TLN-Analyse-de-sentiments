@@ -8,13 +8,10 @@ Analyse de polarité de mots dans des commentaires avec SVM
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#problem">Problem</a></li>
+        <li><a href="#data"> Jeux de données </a></li>
       </ul>
       <ul>
-        <li><a href="#output">Output</a></li>
-      </ul>
-       <ul>
-        <li><a href="#details">Details</a></li>
+        <li><a href="#results"> Résultat </a></li>
       </ul>
     </li>
   </ol>
@@ -27,7 +24,7 @@ Analyse de polarité de mots dans des commentaires avec SVM
 L'objectif de ce projet est de créer un modèle capable de prédire au mieux la polarité d'un mot dans une phrase. 
 Cette polarité peut prendre les valeur positive, neutre ou négative. 
 
-### Jeux de données
+### Data
 Il y a deux dossiers dans ce repo GIT car il y a deux fichiers à étudier :
 * des commentaires de restaurants
 * des commentaires d'ordinateurs
@@ -42,7 +39,7 @@ Les features utilisées sont :
 La variable à prédire :
 * polarity : la polarité du term auquelle elle est associée
 
-### Résultats
+### Results
 Les meilleurs résultats obtenus sont les suivants et le détails et les explications de chaque traitement se trouve dans les Jupyter Notebook :
 
 **LAPTOP**
