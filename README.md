@@ -8,10 +8,10 @@ Analyse de polarité de mots dans des commentaires avec SVM
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#data"> Jeux de données </a></li>
+        <li><a href="#data"> Data </a></li>
       </ul>
       <ul>
-        <li><a href="#results"> Résultat </a></li>
+        <li><a href="#results"> Results </a></li>
       </ul>
     </li>
   </ol>
