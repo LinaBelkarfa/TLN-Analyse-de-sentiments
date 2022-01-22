@@ -1,5 +1,5 @@
 # TLN-Analyse-de-sentiments
-Analyse de polarité de mots dans des commentaires avec SVM 
+Analyse de polarité de mots dans des commentaires avec SVM : SEMEVAL2014 TASK 4 
 
 <!-- TABLE OF CONTENTS -->
 <details>
